@@ -1,0 +1,6 @@
+{
+    "cmd": ["start", "cmd", "/k", "python", "$file"],
+    "selector": "source.python",
+    "shell": true,
+    "working_dir": "$file_dir"
+}
