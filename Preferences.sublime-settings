@@ -1,26 +1,23 @@
 {
-    "auto_complete_commit_on_tab": true,
-
-	"show_encoding": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-
-	// Visual
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"always_show_minimap_viewport": true,
-	"font_size": 10,
-
-	// Theme
-	"theme": "Seti.sublime-theme",
 	"Seti_ClosedFolder_anim": true,
 	"Seti_bold_heading": true,
 	"Seti_sb_small_padding": true,
-
-	// Brackets
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"match_brackets": false,
 	"match_brackets_angle": false,
 	"match_brackets_braces": false,
 	"match_brackets_content": false,
 	"match_brackets_square": false,
 	"match_tags": false,
+	"show_encoding": true,
+	"tab_size": 4,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
