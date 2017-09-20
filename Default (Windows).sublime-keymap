@@ -1,3 +1,5 @@
 [
-    { "keys": [""], "command": "cancel_build" }
+    { "keys": [""], "command": "cancel_build" },
+    { "keys": ["ctrl+pause"], "command": "cancel_build" },
+    { "keys": ["ctrl+alt+b"], "command": "show_panel", "args": {"panel": "output.exec"} }
 ]
