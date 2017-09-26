@@ -1,0 +1,8 @@
+{
+    "path": "%LOCALAPPDATA%",
+    "cmd": ["Continuum/Anaconda3/envs/py27/python.exe", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    // "env": {"PYTHONIOENCODING": "utf-8"},
+    // "encoding": "utf-8"
+}
