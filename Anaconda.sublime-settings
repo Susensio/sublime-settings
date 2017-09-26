@@ -15,4 +15,6 @@
 
     "swallow_startup_errors": true,
 
+    "auto_formatting_timeout": 5,
+
 }
