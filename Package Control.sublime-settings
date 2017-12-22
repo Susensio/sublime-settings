@@ -7,9 +7,13 @@
 	[
 		"Anaconda",
 		"BracketHighlighter",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"MouseEventListener",
 		"Package Control",
 		"PackageResourceViewer",
 		"Pretty JSON",
-		"Seti_UI"
+		"Seti_UI",
+		"SidebarHoverToggle"
 	]
 }
