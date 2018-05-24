@@ -1,5 +1,5 @@
 {
-    "cmd": ["start", "cmd", "/k", "python", "-i", "$file"],
+    "cmd": ["start", "cmd", "/k", "ipython", "-i", "$file"],
     "selector": "source.python",
     "shell": true,
     "working_dir": "$file_dir"
