@@ -1,0 +1,19 @@
+[
+  {
+    "button": "button4",
+    "command": "jump_back"
+  },
+  {
+    "button": "button5",
+    "command": "jump_forward"
+  },
+  {
+    "button": "button1",
+    "count": 1,
+    "modifiers": [
+      "ctrl"
+    ],
+    "press_command": "drag_select",
+    "command": "goto_definition"
+  }
+]
